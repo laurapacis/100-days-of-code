@@ -1,30 +1,9 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: March 7, 2021
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Created MongoDB account and my first database, which I connected to a backend server on my computer. Also re-started my JavaScript training from the basics. I am using the Edabit exercises. This JavaScript training aims to be the groundwork for my 100daysofcode, with the goal of achieving a solid foundation of knowledge that I am lacking at the moment.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I decided to start this challenge to consolidate my JavaScript skills, because I'm not happy with my performance. I've kept learning new things like React and now Express, but my JS foundations are not solid, and obviously this is becoming problematic. So I'm glad I decided to start this challenge. Already now I feel much more motivated to work hard for the next 100 days. The power of accountability!
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work:** [mongodb-server](https://github.com/laurapacis/mongodb-server/commit/7857f29ee8ab844c88faae83e628f4c83cfa35db)
