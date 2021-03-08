@@ -7,3 +7,11 @@
 **Thoughts:** I decided to start this challenge to consolidate my JavaScript skills, because I'm not happy with my performance. I've kept learning new things like React and now Express, but my JS foundations are not solid, and obviously this is becoming problematic. So I'm glad I decided to start this challenge. Already now I feel much more motivated to work hard for the next 100 days. The power of accountability!
 
 **Link to work:** [mongodb-server](https://github.com/laurapacis/mongodb-server/commit/7857f29ee8ab844c88faae83e628f4c83cfa35db)
+
+### Day 2: March 8, 2021
+
+**Today's Progress**: CRUD MongoDB methods: .find() .findOne() and .insertOne(). Also JS training on String Methods.
+
+**Thoughts:** So far I like MongoDB and backend. For some reason it makes me feel calm.
+
+**Link to work:** [mongodb-server](https://github.com/laurapacis/mongodb-server/commit/32b3655fb67ddc303efa378dc68d9acf7ba8be69)
