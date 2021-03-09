@@ -15,3 +15,11 @@
 **Thoughts:** So far I like MongoDB and backend. For some reason it makes me feel calm.
 
 **Link to work:** [mongodb-server](https://github.com/laurapacis/mongodb-server/commit/32b3655fb67ddc303efa378dc68d9acf7ba8be69)
+
+### Day 3: March 9, 2021
+
+**Today's Progress**: Practice with router, routes and middleware (ExpressJS). Also JS training on CodeWars.
+
+**Thoughts:** Really busy day. I've spent more than 10 hours in front of the computer... my eyes hurt x_x
+
+**Link to work:** Nothing to link
