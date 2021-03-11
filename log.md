@@ -31,3 +31,11 @@
 **Thoughts:** I wish I hadn't spent so much time installing MongoDB locally, so I could have practiced more SQL.
 
 **Link to work:** [My first SQL table](http://sqlfiddle.com/#!9/92dbbb/7)
+
+### Day 5: March 11, 2021
+
+**Today's Progress**: Practice with Mongoose: outsourcing models and schemas, working with CRUD routes using different methods.
+
+**Thoughts:** I love being able to hyper-focus and spend the day in front of the computer but it's not going to be good for the long run. I've been feeling a bit unfit lately and I don't like it. From now on, the more I work the more I will workout.
+
+**Link to work:** Nothing to link
