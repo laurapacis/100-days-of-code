@@ -39,3 +39,11 @@
 **Thoughts:** I love being able to hyper-focus and spend the day in front of the computer but it's not going to be good for the long run. I've been feeling a bit unfit lately and I don't like it. From now on, the more I work the more I will workout.
 
 **Link to work:** Nothing to link
+
+### Day 6: March 12, 2021
+
+**Today's Progress**: Practice JS array methods on Codewars.
+
+**Thoughts:** I didn't do much coding today. I feel a bit bad about it but I guess it's okay. It was a productive day in other ways though.
+
+**Link to work:** Nothing to link
