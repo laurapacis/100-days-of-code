@@ -42,7 +42,7 @@
 
 ### Day 6: March 12, 2021
 
-**Today's Progress**: Practice JS array methods on Codewars.
+**Today's Progress**: Practice JS array methods on Codewars. Also brainstorming about two projects ideas.
 
 **Thoughts:** I didn't do much coding today. I feel a bit bad about it but I guess it's okay. It was a productive day in other ways though.
 
