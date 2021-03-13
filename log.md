@@ -47,3 +47,11 @@
 **Thoughts:** I didn't do much coding today. I feel a bit bad about it but I guess it's okay. It was a productive day in other ways though.
 
 **Link to work:** Nothing to link
+
+### Day 7: March 13, 2021
+
+**Today's Progress**: Started learning Three.js reading its docs and browsing through some tutorials.
+
+**Thoughts:**: I wish I could have spent more time coding today, Three.js is so rad!! <3
+
+**Link to work**: Nothing to link
