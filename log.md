@@ -55,3 +55,11 @@
 **Thoughts:**: I wish I could have spent more time coding today, Three.js is so rad!! <3
 
 **Link to work**: Nothing to link
+
+### Day 8: March 14, 2021
+
+**Today's Progress**: Learnt how to create a basic scene with Three.js (scene, mesh, camera, renderer).
+
+**Thoughts:**: After browsing through some disappointing courses/tutorials I finally decided to give [three.js journey](https://threejs-journey.xyz/) by [Bruno Simon](https://bruno-simon.com/) a try and so far, so great! Even though I am not so sure this is the best time for me to learn Three.js, I feel so thrilled about it!
+
+**Link to work**: Nothing to link
