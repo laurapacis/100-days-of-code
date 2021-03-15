@@ -63,3 +63,11 @@
 **Thoughts:**: After browsing through some disappointing courses/tutorials I finally decided to give [three.js journey](https://threejs-journey.xyz/) by [Bruno Simon](https://bruno-simon.com/) a try and so far, so great! Even though I am not so sure this is the best time for me to learn Three.js, I feel so thrilled about it!
 
 **Link to work**: Nothing to link
+
+### Day 9: March 15, 2021
+
+**Today's Progress**: Mongoose Virtuals and Serving static files in Express.
+
+**Thoughts:**: I have the feeling that today wasn't productive at all. Maybe because all what I wanted to do was learning more Three.js and I didn't have time (and energy) for it. On the other hand, the highlight of the day was the code review from R., because he really took the time to make it meaningful. Sometimes, seeing other people do things right makes me inspired.
+
+**Link to work**: Nothing to link
