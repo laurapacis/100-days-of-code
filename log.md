@@ -71,3 +71,11 @@
 **Thoughts:**: I have the feeling that today wasn't productive at all. Maybe because all what I wanted to do was learning more Three.js and I didn't have time (and energy) for it. On the other hand, the highlight of the day was the code review from R., because he really took the time to make it meaningful. Sometimes, seeing other people do things right makes me inspired.
 
 **Link to work**: Nothing to link
+
+### Day 10: March 16, 2021
+
+**Today's Progress**: Seeding a database with Faker.js + Basics of Webpack
+
+**Thoughts:**: Today in class we started a group project, a fullstack application for a Record Store. Besides that: good time managment today :woman-juggling: I am feeling happy and tired.
+
+**Link to work**: [Record Store Server](https://github.com/Laura-Cindy-Aza/records-store-server)
