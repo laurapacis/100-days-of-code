@@ -79,3 +79,11 @@
 **Thoughts:**: Today in class we started a group project, a fullstack application for a Record Store. Besides that: good time managment today :woman-juggling: I am feeling happy and tired.
 
 **Link to work**: [Record Store Server](https://github.com/Laura-Cindy-Aza/records-store-server)
+
+### Day 11: March 17, 2021
+
+**Today's Progress**: Redux review: store, actions and reducers.
+
+**Thoughts:**: More group work, starting to connect the backend with the frontend today. Also Redux starts to make sense :clap: 
+
+**Link to work**: [Record Store Client](https://github.com/Laura-Cindy-Aza/record-store-client)
