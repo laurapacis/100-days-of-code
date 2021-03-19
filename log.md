@@ -95,3 +95,11 @@
 **Thoughts:**: More group work during the day. I like these group projects because they push me out of my comfort zone + improve my soft skills. Today's ReDI class was specially nice because the students did their first long(er) individual projects and by supporting them in their work I was reminded of where I started and where I am now.
 
 **Link to work**: [Record Store Client](https://github.com/Laura-Cindy-Aza/record-store-client)
+
+### Day 13: March 19, 2021
+
+**Today's Progress**: More review on Redux: creating the authentication for the login page.
+
+**Thoughts:**: I had a very busy day that mostly kept me away from the computer and coding.
+
+**Link to work**: [Record Store Client](https://github.com/Laura-Cindy-Aza/record-store-client)
