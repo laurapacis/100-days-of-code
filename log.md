@@ -52,7 +52,7 @@
 
 **Today's Progress**: Started learning Three.js reading its docs and browsing through some tutorials.
 
-**Thoughts:**: I wish I could have spent more time coding today, Three.js is so rad!! <3
+**Thoughts:** I wish I could have spent more time coding today, Three.js is so rad!! <3
 
 **Link to work**: Nothing to link
 
@@ -60,7 +60,7 @@
 
 **Today's Progress**: Learnt how to create a basic scene with Three.js (scene, mesh, camera, renderer).
 
-**Thoughts:**: After browsing through some disappointing courses/tutorials I finally decided to give [three.js journey](https://threejs-journey.xyz/) by [Bruno Simon](https://bruno-simon.com/) a try and so far, so great! Even though I am not so sure this is the best time for me to learn Three.js, I feel so thrilled about it!
+**Thoughts:** After browsing through some disappointing courses/tutorials I finally decided to give [three.js journey](https://threejs-journey.xyz/) by [Bruno Simon](https://bruno-simon.com/) a try and so far, so great! Even though I am not so sure this is the best time for me to learn Three.js, I feel so thrilled about it!
 
 **Link to work**: Nothing to link
 
@@ -84,6 +84,14 @@
 
 **Today's Progress**: Redux review: store, actions and reducers.
 
-**Thoughts:**: More group work, starting to connect the backend with the frontend today. Also Redux starts to make sense :clap: 
+**Thoughts:**: More group work, starting to connect the backend with the frontend today. Also Redux starts to make sense :clap:
+
+**Link to work**: [Record Store Client](https://github.com/Laura-Cindy-Aza/record-store-client)
+
+### Day 12: March 18, 2021
+
+**Today's Progress**: Learn Bulma today (I still prefer Semantic UI).
+
+**Thoughts:**: More group work during the day. I like these group projects because they push me out of my comfort zone + improve my soft skills. Today's ReDI class was specially nice because the students did their first long(er) individual projects and by supporting them in their work I was reminded of where I started and where I am now.
 
 **Link to work**: [Record Store Client](https://github.com/Laura-Cindy-Aza/record-store-client)
