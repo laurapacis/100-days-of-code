@@ -108,6 +108,14 @@
 
 **Today's Progress**: I started learning Figma with a YouTube tutorial.
 
-**Thoughts:**: Today I had an important event that occupied my whole day, so I couldn't do much.
+**Thoughts:**: Today was Nowruz, Spring started, and also a new century! This event occupied my whole day, so I couldn't do much else.
+
+**Link to work**: Nothing to link
+
+### Day 15: March 21, 2021
+
+**Today's Progress**: Authentication with hashing, salt and bcrypt <3
+
+**Thoughts:**: This week I almost hadn't time for Three.js and I feel very guilty about it. I think I will have to lower the ReDI sessions to once a week to have more time for this.
 
 **Link to work**: Nothing to link
