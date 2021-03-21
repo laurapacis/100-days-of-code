@@ -103,3 +103,11 @@
 **Thoughts:**: I had a very busy day that mostly kept me away from the computer and coding.
 
 **Link to work**: [Record Store Client](https://github.com/Laura-Cindy-Aza/record-store-client)
+
+### Day 14: March 20, 2021
+
+**Today's Progress**: I started learning Figma with a YouTube tutorial.
+
+**Thoughts:**: Today I had an important event that occupied my whole day, so I couldn't do much.
+
+**Link to work**: Nothing to link
