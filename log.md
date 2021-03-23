@@ -119,3 +119,11 @@
 **Thoughts:**: This week I almost hadn't time for Three.js and I feel very guilty about it. I think I will have to lower the ReDI sessions to once a week to have more time for this.
 
 **Link to work**: Nothing to link
+
+### Day 16: March 22, 2021
+
+**Today's Progress**: JavaScript training with Codewars (finally again!!)
+
+**Thoughts:**: I watched Coded Bias today and also attended its webinar. Besides that I've been working in my CV and also kept working in the Record Store project with Cindy and Aza.
+
+**Link to work**: Nothing to link
