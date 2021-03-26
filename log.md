@@ -135,3 +135,11 @@
 **Thoughts:**: We finally presented out Record Store project. I also had the first meeting with the classmates I am going to do the final project with, I am very excited about it! Besides everything, I kept working on my CV, now based on the recommendations of Olha H <3
 
 **Link to work**: [Record Store](https://github.com/Laura-Cindy-Aza)
+
+### Day 18: March 24, 2021
+
+**Today's Progress**: More Codewars (less)
+
+**Thoughts:**: Today I was very unfocused. Not proud of it.
+
+**Link to work**: Nothing to link
