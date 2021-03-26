@@ -151,3 +151,11 @@
 **Thoughts:**: Today was better. And I am loving Trello!
 
 **Link to work**: [babyface](https://github.com/laurapacis/babyface)
+
+### Day 20: March 26, 2021
+
+**Today's Progress**: Updated my portfolio and finished CV. Learnt the difference between node.js require and ES6 import and export. Also sent my first job application!
+
+**Thoughts:**: We started mentoring at DCI as well. Still a bit early to have an opinion about it. After working with ES6 import and export in my backend for the first time, I kind of still prefer node.js require. PS: The job search makes me super excited.
+
+**Link to work**: [my portfolio](https://laurapacis.github.io/portfolio-lab/) [imageboard-server](https://github.com/laurapacis/imageboard/commits/main/server)
