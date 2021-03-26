@@ -143,3 +143,11 @@
 **Thoughts:**: Today I was very unfocused. Not proud of it.
 
 **Link to work**: Nothing to link
+
+### Day 19: March 25, 2021
+
+**Today's Progress**: Updated babyface and my CV. Also started using Trello.
+
+**Thoughts:**: Today was better. And I am loving Trello!
+
+**Link to work**: [babyface](https://github.com/laurapacis/babyface)
