@@ -159,3 +159,19 @@
 **Thoughts:**: We started mentoring at DCI as well. Still a bit early to have an opinion about it. After working with ES6 import and export in my backend for the first time, I kind of still prefer node.js require. PS: The job search makes me super excited.
 
 **Link to work**: [my portfolio](https://laurapacis.github.io/portfolio-lab/) [imageboard-server](https://github.com/laurapacis/imageboard/commits/main/server)
+
+### Day 21: March 27, 2021
+
+**Today's Progress**: JavaScript training with old exercises and TypeScript for beginners tutorial
+
+**Thoughts:**: TypeScript is rad!
+
+**Link to work**: Nothing to link
+
+### Day 22: March 28, 2021
+
+**Today's Progress**: More JavaScript training with old exercises
+
+**Thoughts:**: Today I was very busy writing cover letters.. I need more time to code!
+
+**Link to work**: Nothing to link
