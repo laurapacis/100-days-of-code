@@ -175,3 +175,11 @@
 **Thoughts:**: Today I was very busy writing cover letters.. I need more time to code!
 
 **Link to work**: Nothing to link
+
+### Day 23: March 29, 2021
+
+**Today's Progress**: Practice with faker.js to seed data, ReactNative tutorial for beginners
+
+**Thoughts:**: I literally need more hours in the day! I am starting to doubt if it is a good idea to learn TypeScript and ReactNative at the same time for the final project..
+
+**Link to work**: Nothing to link
