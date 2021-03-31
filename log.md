@@ -186,7 +186,7 @@
 
 ### Day 24: March 30, 2021
 
-**Today's Progress**: More data modelling practice: creating relationship by referencing (Ref) MongoDB documents i.e. outsourcing related documents to own collections
+**Today's Progress**: More data modeling practice: creating relationship by referencing (Ref) MongoDB documents i.e. outsourcing related documents to own collections
 
 **Thoughts:**: I feel like I don't have any thoughts at all after today.. braindead.
 
