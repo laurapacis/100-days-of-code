@@ -191,3 +191,19 @@
 **Thoughts:**: I feel like I don't have any thoughts at all after today.. braindead.
 
 **Link to work**: Nothing to link
+
+### Day 25: March 31, 2021
+
+**Today's Progress**: Authentication with JWT Token
+
+**Thoughts:**: I wish the repos of our class exercises were public.. Bruno Simon added a new module in three.js-journey <3<3 PS: Wohoo a quarter of the challenge is done!
+
+**Link to work**: Nothing to link
+
+### Day 26: April 1, 2021
+
+**Today's Progress**: Practice on Password Hashing with bcryptjs
+
+**Thoughts:**: We are almost finishing the backend module! Life is so exciting :)
+
+**Link to work**: Nothing to link
