@@ -231,3 +231,11 @@
 **Thoughts:**: I decided to rest a bit today and honor my bleeding body and the resurrection of Jesus. It almost worked :)
 
 **Link to work**: Nothing to link
+
+### Day 30: April 5, 2021
+
+**Today's Progress**: Figma tutorial and JS practice
+
+**Thoughts:**: If you are reading this, you should check out Chef's Table. Do you also find yourself in tears with each episode? Please let me know.
+
+**Link to work**: Nothing to link
