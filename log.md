@@ -207,3 +207,11 @@
 **Thoughts:**: We are almost finishing the backend module! Life is so exciting :)
 
 **Link to work**: Nothing to link
+
+### Day 27: April 2, 2021
+
+**Today's Progress**: Transforming objects with Three.js
+
+**Thoughts:**: I am so happy I found time again to continue with my Three.js-journey. It is so much fun. It really clicks with me.
+
+**Link to work**: Nothing to link!
