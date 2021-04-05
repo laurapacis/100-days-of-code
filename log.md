@@ -216,10 +216,18 @@
 
 **Link to work**: Nothing to link!
 
-### Day 27: April 3, 2021
+### Day 28: April 3, 2021
 
 **Today's Progress**: Moving objects with Three.js
 
 **Thoughts:**: I hope I can find a job in which I can pursue my Three.js-journey. I love this and I think I can do great stuff with it.
+
+**Link to work**: Nothing to link
+
+### Day 29: April 4, 2021
+
+**Today's Progress**: JS Practice on Codewars
+
+**Thoughts:**: I decided to rest a bit today and honor my bleeding body and the resurrection of Jesus. It almost worked :)
 
 **Link to work**: Nothing to link
