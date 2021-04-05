@@ -215,3 +215,11 @@
 **Thoughts:**: I am so happy I found time again to continue with my Three.js-journey. It is so much fun. It really clicks with me.
 
 **Link to work**: Nothing to link!
+
+### Day 27: April 3, 2021
+
+**Today's Progress**: Moving objects with Three.js
+
+**Thoughts:**: I hope I can find a job in which I can pursue my Three.js-journey. I love this and I think I can do great stuff with it.
+
+**Link to work**: Nothing to link
