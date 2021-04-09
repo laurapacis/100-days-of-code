@@ -263,3 +263,11 @@
 **Thoughts:**: I discovered IDAGIO today. uf uf uf I would love to work there.
 
 **Link to work**: Nothing to link
+
+### Day 34: April 9, 2021
+
+**Today's Progress**: Working on a MERN full-stack project with Redux
+
+**Thoughts:**: :hot-face:
+
+**Link to work**: [imageboard](https://github.com/laurapacis/imageboard)
