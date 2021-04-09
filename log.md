@@ -239,3 +239,11 @@
 **Thoughts:**: If you are reading this, you should check out Chef's Table. Do you also find yourself in tears with each episode? Please let me know.
 
 **Link to work**: Nothing to link
+
+### Day 31: April 6, 2021
+
+**Today's Progress**: Today there was no progress :(
+
+**Thoughts:**: I was very unfocused today, I read some articles but I wasn't really productive.
+
+**Link to work**: Nothing to link
