@@ -247,3 +247,11 @@
 **Thoughts:**: I was very unfocused today, I read some articles but I wasn't really productive.
 
 **Link to work**: Nothing to link
+
+### Day 32: April 7, 2021
+
+**Today's Progress**: My first deployments with Heroku!
+
+**Thoughts:**: I am updating three days after, so I don't remember what I was exactly thinking.. jobs, grapefruits, final project..
+
+**Link to work**: [first-deployment](https://see-you-in-a-bright-night.herokuapp.com/), [second-deployment](https://throbbing-gristle.herokuapp.com/)
