@@ -255,3 +255,11 @@
 **Thoughts:**: I am updating three days after, so I don't remember what I was exactly thinking.. jobs, grapefruits, final project..
 
 **Link to work**: [first-deployment](https://see-you-in-a-bright-night.herokuapp.com/), [second-deployment](https://throbbing-gristle.herokuapp.com/)
+
+### Day 33: April 8, 2021
+
+**Today's Progress**: More on Heroku + TypeScript tutorial
+
+**Thoughts:**: I discovered IDAGIO today. uf uf uf I would love to work there.
+
+**Link to work**: Nothing to link
