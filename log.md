@@ -279,3 +279,11 @@
 **Thoughts**: I wish I had worked more today, at the same time, it is important to give the brain a rest..
 
 **Link to work**: [imageboard](https://github.com/laurapacis/imageboard)
+
+### Day 36: April 11, 2021
+
+**Today's Progress**: Kept working on a MERN full-stack project with Redux
+
+**Thoughts**: Yes, yes, same old, same old.
+
+**Link to work**: [imageboard](https://github.com/laurapacis/imageboard)
