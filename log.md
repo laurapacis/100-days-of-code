@@ -287,3 +287,11 @@
 **Thoughts**: Yes, yes, same old, same old.
 
 **Link to work**: [imageboard](https://github.com/laurapacis/imageboard)
+
+### Day 37: April 13, 2021
+
+**Today's Progress**: Working on the backend of a group project with two classmates
+
+**Thoughts**: Good start of the week, but I feel tired.
+
+**Link to work**: [Record Store Server](https://github.com/Laura-Cindy-Aza/records-store-server)
