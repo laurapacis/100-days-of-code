@@ -303,3 +303,11 @@
 **Thoughts**: Today was SO FULL :hot: After class we were teaching Flexbox in ReDI and after ReDI I attended a German class. This was tough. I also finally decided to buy myself a standing desk, sitting down so for so long doesn't feel good anymore.
 
 **Link to work**: [Record Store Server](https://github.com/Laura-Cindy-Aza/records-store-server)
+
+### Day 39: April 14, 2021
+
+**Today's Progress**: Working on the client of a group project with two classmates
+
+**Thoughts**: Today was a nice day. I went for a run and also did a ballet session with a YouTube tutorial to compensate for the sedentarism from yesterday. I love dancing and I love ballet.
+
+**Link to work**: [Record Store Client](https://github.com/Laura-Cindy-Aza/record-store-client)
