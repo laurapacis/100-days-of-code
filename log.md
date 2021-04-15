@@ -311,3 +311,11 @@
 **Thoughts**: Today was a nice day. I went for a run and also did a ballet session with a YouTube tutorial to compensate for the sedentarism from yesterday. I love dancing and I love ballet.
 
 **Link to work**: [Record Store Client](https://github.com/Laura-Cindy-Aza/record-store-client)
+
+### Day 40: April 15, 2021
+
+**Today's Progress**: Working on the client of a group project with two classmates
+
+**Thoughts**: Looking forward for the weekend to spend one whole day without touching the computer. Ha can you imagine.
+
+**Link to work**: [Record Store Client](https://github.com/Laura-Cindy-Aza/record-store-client)
