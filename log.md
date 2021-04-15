@@ -295,3 +295,11 @@
 **Thoughts**: Good start of the week, but I feel tired.
 
 **Link to work**: [Record Store Server](https://github.com/Laura-Cindy-Aza/records-store-server)
+
+### Day 38: April 14, 2021
+
+**Today's Progress**: More work on the backend of a group project with two classmates
+
+**Thoughts**: Today was SO FULL :hot: After class we were teaching Flexbox in ReDI and after ReDI I attended a German class. This was tough. I also finally decided to buy myself a standing desk, sitting down so for so long doesn't feel good anymore.
+
+**Link to work**: [Record Store Server](https://github.com/Laura-Cindy-Aza/records-store-server)
