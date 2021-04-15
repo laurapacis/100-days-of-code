@@ -316,6 +316,6 @@
 
 **Today's Progress**: Working on the client of a group project with two classmates
 
-**Thoughts**: Looking forward for the weekend to spend one whole day without touching the computer. Ha can you imagine.
+**Thoughts**: Looking forward for the weekend to spend one whole day without touching the computer. Ha can you imagine. ALSO I just realized that my git name was different than my GitHub username so basically I've been commiting with a "wrong name". I feel so stupid.
 
 **Link to work**: [Record Store Client](https://github.com/Laura-Cindy-Aza/record-store-client)
