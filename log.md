@@ -327,3 +327,11 @@
 **Thoughts**: This was the official last week of the DCI course. My life has changed so much in this last year.
 
 **Link to work**: [imageboard](https://github.com/laurapacis/imageboard)
+
+### Day 42: April 17, 2021
+
+**Today's Progress**: Working on an old frontend project fetching data from the WeatherAPI
+
+**Thoughts**: While I was working today, I realized that things that a couple of months ago were so hard now are much easier. Feels good.
+
+**Link to work**: [weather-app](https://github.com/laurapacis/weather-app)
