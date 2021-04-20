@@ -359,3 +359,11 @@
 **Thoughts**: Today was a nicer day. I am also enjoying the creation of my new portfolio a lot.
 
 **Link to work**: Nothing to link
+
+### Day 45: April 20, 2021
+
+**Today's Progress**: Animations with FramerMotion
+
+**Thoughts**: Today's class with Wasabis was a lot of fun. I enjoy working with these playfull things more than with the hard logical stuff. Does this make me a bad developer?
+
+**Link to work**: Nothing to link
