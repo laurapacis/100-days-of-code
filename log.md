@@ -316,6 +316,14 @@
 
 **Today's Progress**: Working on the client of a group project with two classmates
 
-**Thoughts**: Looking forward for the weekend to spend one whole day without touching the computer. Ha can you imagine. ALSO I just realized that my git name was different than my GitHub username so basically I've been commiting with a "wrong name". I feel so stupid.
+**Thoughts**: Looking forward for the weekend to spend one whole day without touching the computer. Ha can you imagine. ALSO I just realized that my git name was different than my GitHub username so basically I've been committing with a "wrong name". I feel so stupid.
 
 **Link to work**: [Record Store Client](https://github.com/Laura-Cindy-Aza/record-store-client)
+
+### Day 41: April 16, 2021
+
+**Today's Progress**: Working on my fullstack imageboard project
+
+**Thoughts**: This was the official last week of the DCI course. My life has changed so much in this last year.
+
+**Link to work**: [imageboard](https://github.com/laurapacis/imageboard)
