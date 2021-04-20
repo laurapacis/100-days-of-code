@@ -351,3 +351,11 @@
 **Thoughts**: Today I had a meeting with Tiago R and it was great. It helped me to realized about the direction I want to take in my career.
 
 **Link to work**: Nothing to link
+
+### Day 44: April 19, 2021
+
+**Today's Progress**: Sending verification emails from the backend with NodeMailer + creating a login option for the user with social media accounts + Coding my new portfolio
+
+**Thoughts**: Today was a nicer day. I am also enjoying the creation of my new portfolio a lot.
+
+**Link to work**: Nothing to link
