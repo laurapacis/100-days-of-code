@@ -335,3 +335,19 @@
 **Thoughts**: While I was working today, I realized that things that a couple of months ago were so hard now are much easier. Feels good.
 
 **Link to work**: [weather-app](https://github.com/laurapacis/weather-app)
+
+### Day 42: April 17, 2021
+
+**Today's Progress**: Working on an old frontend project fetching data from the WeatherAPI
+
+**Thoughts**: While I was working today, I realized that things that a couple of months ago were so hard now are much easier. Feels good. PS: Again, I am updating this diary with 5-days-delay..
+
+**Link to work**: [weather-app](https://github.com/laurapacis/weather-app)
+
+### Day 43: April 18, 2021
+
+**Today's Progress**: JS Practice, finally again.
+
+**Thoughts**: Today I had a meeting with Tiago R and it was great. It helped me to realized about the direction I want to take in my career.
+
+**Link to work**: Nothing to link
