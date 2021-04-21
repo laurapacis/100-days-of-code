@@ -359,3 +359,11 @@
 **Thoughts**: Today's class with Wasabis was a lot of fun. I enjoy working with these playfull things more than with the hard logical stuff. Does this make me a bad developer?
 
 **Link to work**: Nothing to link
+
+### Day 46: April 21, 2021
+
+**Today's Progress**: File uploading & display with Cloudinary + JS Practice + portfolio website
+
+**Thoughts**: Today was a nice day. I got a lot of things done.
+
+**Link to work**: Nothing to link
