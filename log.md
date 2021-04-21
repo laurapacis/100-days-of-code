@@ -288,7 +288,7 @@
 
 **Link to work**: [imageboard](https://github.com/laurapacis/imageboard)
 
-### Day 37: April 13, 2021
+### Day 37: April 12, 2021
 
 **Today's Progress**: Working on the backend of a group project with two classmates
 
@@ -296,7 +296,7 @@
 
 **Link to work**: [Record Store Server](https://github.com/Laura-Cindy-Aza/records-store-server)
 
-### Day 38: April 14, 2021
+### Day 38: April 13, 2021
 
 **Today's Progress**: More work on the backend of a group project with two classmates
 
@@ -333,14 +333,6 @@
 **Today's Progress**: Working on an old frontend project fetching data from the WeatherAPI
 
 **Thoughts**: While I was working today, I realized that things that a couple of months ago were so hard now are much easier. Feels good.
-
-**Link to work**: [weather-app](https://github.com/laurapacis/weather-app)
-
-### Day 42: April 17, 2021
-
-**Today's Progress**: Working on an old frontend project fetching data from the WeatherAPI
-
-**Thoughts**: While I was working today, I realized that things that a couple of months ago were so hard now are much easier. Feels good. PS: Again, I am updating this diary with 5-days-delay..
 
 **Link to work**: [weather-app](https://github.com/laurapacis/weather-app)
 
