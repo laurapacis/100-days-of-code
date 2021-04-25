@@ -375,3 +375,11 @@
 **Thoughts**: Today was the last day of class in the DCI course. Testing seems interesting, but I am glad we are done with the curriculum and that from next week I can start focusing on design a Three.js with the final project.
 
 **Link to work**: Nothing to link
+
+### Day 48: April 23, 2021
+
+**Today's Progress**: Add new feature to my new portfolio
+
+**Thoughts**: Today was a bit stressful, a had three meetings and was also preparing my job application documents. I think tomorrow I will rest the whole day.
+
+**Link to work**: Nothing to link
