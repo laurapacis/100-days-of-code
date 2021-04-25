@@ -367,3 +367,11 @@
 **Thoughts**: Today was a nice day. I got a lot of things done.
 
 **Link to work**: Nothing to link
+
+### Day 47: April 22, 2021
+
+**Today's Progress**: Frontend testing with Jest
+
+**Thoughts**: Today was the last day of class in the DCI course. Testing seems interesting, but I am glad we are done with the curriculum and that from next week I can start focusing on design a Three.js with the final project.
+
+**Link to work**: Nothing to link
