@@ -383,3 +383,11 @@
 **Thoughts**: Today was a bit stressful, a had three meetings and was also preparing my job application documents. I think tomorrow I will rest the whole day.
 
 **Link to work**: Nothing to link
+
+### Day 49: April 24, 2021
+
+**Today's Progress**: I took the day off today without regrets
+
+**Thoughts**: No work today whatsoever, although I was reading some interesting stuff about generativ design and creative coding. Let's say that counts :)
+
+**Link to work**: Nothing to link
