@@ -423,3 +423,11 @@
 **Thoughts**: More Librix and fun. Also I was preparing some projects to present tomorrow in the interview + JS practice. I am very nervous.
 
 **Link to work**: Nothing to link
+
+### Day 54: April 29, 2021
+
+**Today's Progress**: More Librix (final project)
+
+**Thoughts**: I had my interview today and I think it went well! Actually more than an interview it felt like an interesting conversation. I hope everything goes well and I can get the position. It would be my dream.
+
+**Link to work**: Nothing to link
