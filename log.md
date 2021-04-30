@@ -388,6 +388,14 @@
 
 **Today's Progress**: I took the day off today without regrets
 
-**Thoughts**: No work today whatsoever, although I was reading some interesting stuff about generativ design and creative coding. Let's say that counts :)
+**Thoughts**: No work today whatsoever, although I was reading some interesting stuff about generative design and creative coding. Let's say that counts :)
+
+**Link to work**: Nothing to link
+
+### Day 50: April 25, 2021
+
+**Today's Progress**: Attempt to practice JS
+
+**Thoughts**: I forced myself to do some practice today after a day of hiking, because I was feeling guilty since I didn't do anything yesterday. It wasn't very effective :/
 
 **Link to work**: Nothing to link
