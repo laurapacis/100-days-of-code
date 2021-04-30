@@ -399,3 +399,11 @@
 **Thoughts**: I forced myself to do some practice today after a day of hiking, because I was feeling guilty since I didn't do anything yesterday. It wasn't very effective :/
 
 **Link to work**: Nothing to link
+
+### Day 51: April 26, 2021
+
+**Today's Progress**: Starting the design sprint of Librix
+
+**Thoughts**: We started working on the final project. I love our idea!
+
+**Link to work**: Nothing to link
