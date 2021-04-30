@@ -415,3 +415,11 @@
 **Thoughts**: This project is a lot of fun, and I am very happy with my group and the fact that everybody is so engaged and wants to make the best of it. Today I was also preparing for my Thursday's job interview. I really want this position.
 
 **Link to work**: Nothing to link
+
+### Day 53: April 28, 2021
+
+**Today's Progress**: More Librix (final project) + JS practice
+
+**Thoughts**: More Librix and fun. Also I was preparing some projects to present tomorrow in the interview + JS practice. I am very nervous.
+
+**Link to work**: Nothing to link
