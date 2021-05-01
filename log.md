@@ -431,3 +431,11 @@
 **Thoughts**: I had my interview today and I think it went well! Actually more than an interview it felt like an interesting conversation. I hope everything goes well and I can get the position. It would be my dream.
 
 **Link to work**: Nothing to link
+
+### Day 55: April 30, 2021
+
+**Today's Progress**: More Librix (final project) + Blender tutorial
+
+**Thoughts**: Finally deep diving into Blender! Learning all the shortcuts at the beginning feels a bit confusing.
+
+**Link to work**: Nothing to link
