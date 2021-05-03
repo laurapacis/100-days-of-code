@@ -439,3 +439,11 @@
 **Thoughts**: Finally deep diving into Blender! Learning all the shortcuts at the beginning feels a bit confusing.
 
 **Link to work**: Nothing to link
+
+### Day 56: May 1, 2021
+
+**Today's Progress**: Transform objects with Three.js (review)
+
+**Thoughts**: I got my period and indulged myself with a whole day in bed. At the end of the evening I dragged myself into reviewing some Three.js tutorials.
+
+**Link to work**: Nothing to link
