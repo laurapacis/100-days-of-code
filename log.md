@@ -455,3 +455,11 @@
 **Thoughts**: reveal-md is so cool.
 
 **Link to work**: Nothing to link
+
+### Day 58: May 3, 2021
+
+**Today's Progress**: Blender practice
+
+**Thoughts**: I made a vegan double-cheeseburger with Blender, following the Three.js-journey tutorial from Bruno Simon.
+
+**Link to work**: [The burger](https://twitter.com/laurapacis/status/1389339630957473796/photo/1)
