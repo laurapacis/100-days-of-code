@@ -447,3 +447,11 @@
 **Thoughts**: I got my period and indulged myself with a whole day in bed. At the end of the evening I dragged myself into reviewing some Three.js tutorials.
 
 **Link to work**: Nothing to link
+
+### Day 57: May 2, 2021
+
+**Today's Progress**: My first presentation with reveal-md
+
+**Thoughts**: reveal-md is so cool.
+
+**Link to work**: Nothing to link
