@@ -502,7 +502,7 @@
 
 **Thoughts**: A good day today. Hyperfocus. I love it.
 
-**Link to work**: [PA-Slider repo](https://github.com/laurapacis/pa-slider)
+**Link to work**: [PA-Slider - repo](https://github.com/laurapacis/pa-slider)
 
 ### Day 64: May 9, 2021
 
@@ -510,4 +510,12 @@
 
 **Thoughts**: Another good day.
 
-**Link to work**: [PA-Slider repo](https://github.com/laurapacis/pa-slider)
+**Link to work**: [PA-Slider - repo](https://github.com/laurapacis/pa-slider)
+
+### Day 65: May 10, 2021
+
+**Today's Progress**: Filtered Cube project
+
+**Thoughts**: My neck is starting to hurt. I got a bit overwhelmed today with the state machines and the fact that I cannot implement them in my project, but I am happy I could decided what to do instead. Tomorrow is the last day!
+
+**Link to work**: [Filtered Cube - repo](https://github.com/laurapacis/filtered-cube)
