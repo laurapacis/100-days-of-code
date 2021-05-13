@@ -535,3 +535,11 @@
 **Thoughts**: Today I was feeling kind of hangover after the four days of hard work on the assignment. Luckily I have off tomorrow. I plan to do exactly nothing.
 
 **Link to work**: [Librix UI with Figma](https://www.figma.com/file/SavVB9yhv3tldcQOipmhi0/Librix-UI?node-id=0%3A1)
+
+### Day 68: May 13, 2021
+
+**Today's Progress**: Reading _Branded Interactions: Creating the Digital Experience_
+
+**Thoughts**: I didn't do anything today to recover for the very long last week. Although I read about digital design in [this book](https://www.goodreads.com/book/show/25620805-branded-interactions). Such an interesting topic. PD: I got a feedback from the company and I will a meeting with the CEO and PM next week
+
+**Link to work**: Nothing to link
