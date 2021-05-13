@@ -519,3 +519,11 @@
 **Thoughts**: My neck is starting to hurt. I got a bit overwhelmed today with the state machines and the fact that I cannot implement them in my project, but I am happy I could decided what to do instead. Tomorrow is the last day!
 
 **Link to work**: [Filtered Cube - repo](https://github.com/laurapacis/filtered-cube)
+
+### Day 66: May 11, 2021
+
+**Today's Progress**: Finishing up the PA-Slider and the Filtered Cube projects
+
+**Thoughts**: My neck paaaains. I need to get a separate keyboard. I delivered tonight at 0000. I am exhausted, but I feel great.
+
+**Link to work**: [PA-Slider - repo](https://github.com/laurapacis/pa-slider), [Filtered Cube - repo](https://github.com/laurapacis/filtered-cube)
