@@ -471,3 +471,19 @@
 **Thoughts**: I made a donut with Blender, although I couldn't finish it since we had to start working on the UI for the project.
 
 **Link to work**: [Librix UI with Figma](https://www.figma.com/file/SavVB9yhv3tldcQOipmhi0/Librix-UI?node-id=0%3A1)
+
+### Day 60: May 5, 2021
+
+**Today's Progress**: Librix UI with Figma
+
+**Thoughts**: Figma is not that easy, neither is designing an User Interface.
+
+**Link to work**: [Librix UI with Figma](https://www.figma.com/file/SavVB9yhv3tldcQOipmhi0/Librix-UI?node-id=0%3A1)
+
+### Day 61: May 6, 2021
+
+**Today's Progress**: More Librix UI with Figma
+
+**Thoughts**: I am starting to get pretty comfortable with Figma, but honestly, I feel very insecure about my design xD
+
+**Link to work**: [Librix UI with Figma](https://www.figma.com/file/SavVB9yhv3tldcQOipmhi0/Librix-UI?node-id=0%3A1)
