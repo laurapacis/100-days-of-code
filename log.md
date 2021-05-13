@@ -503,3 +503,11 @@
 **Thoughts**: A good day today. Hyperfocus. I love it.
 
 **Link to work**: [PA-Slider repo](https://github.com/laurapacis/pa-slider)
+
+### Day 64: May 9, 2021
+
+**Today's Progress**: Slider Element
+
+**Thoughts**: Another good day.
+
+**Link to work**: [PA-Slider repo](https://github.com/laurapacis/pa-slider)
