@@ -487,3 +487,11 @@
 **Thoughts**: I am starting to get pretty comfortable with Figma, but honestly, I feel very insecure about my design xD
 
 **Link to work**: [Librix UI with Figma](https://www.figma.com/file/SavVB9yhv3tldcQOipmhi0/Librix-UI?node-id=0%3A1)
+
+### Day 62: May 7, 2021
+
+**Today's Progress**: More Librix UI with Figma
+
+**Thoughts**: I have started working together with another classmate in the UI and it is such a better experience. I am having a lot of fun, love it! Also I've got feedback from my dream company and I have to do a test-kind-of-task and send it back in the next four days, so I will spend the whole weeking working on that, I'll get this job!
+
+**Link to work**: [Librix UI with Figma](https://www.figma.com/file/SavVB9yhv3tldcQOipmhi0/Librix-UI?node-id=0%3A1)
