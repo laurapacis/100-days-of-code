@@ -463,3 +463,11 @@
 **Thoughts**: I made a vegan double-cheeseburger with Blender, following the Three.js-journey tutorial from Bruno Simon.
 
 **Link to work**: [The burger](https://twitter.com/laurapacis/status/1389339630957473796/photo/1)
+
+### Day 59: May 4, 2021
+
+**Today's Progress**: Blender practice + starting with Figma to do the UI for our final project Librix
+
+**Thoughts**: I made a donut with Blender, although I couldn't finish it since we had to start working on the UI for the project.
+
+**Link to work**: [Librix UI with Figma](https://www.figma.com/file/SavVB9yhv3tldcQOipmhi0/Librix-UI?node-id=0%3A1)
