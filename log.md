@@ -527,3 +527,11 @@
 **Thoughts**: My neck paaaains. I need to get a separate keyboard. I delivered tonight at 0000. I am exhausted, but I feel great.
 
 **Link to work**: [PA-Slider - repo](https://github.com/laurapacis/pa-slider), [Filtered Cube - repo](https://github.com/laurapacis/filtered-cube)
+
+### Day 67: May 12, 2021
+
+**Today's Progress**: Back to the UI design for Librix
+
+**Thoughts**: Today I was feeling kind of hangover after the four days of hard work on the assignment. Luckily I have off tomorrow. I plan to do exactly nothing.
+
+**Link to work**: [Librix UI with Figma](https://www.figma.com/file/SavVB9yhv3tldcQOipmhi0/Librix-UI?node-id=0%3A1)
